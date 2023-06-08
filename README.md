@@ -1,1 +1,1 @@
-# 8-relay-control-with-teperature-and-humidity
+# 6-relay-control-with-teperature-and-humidity
